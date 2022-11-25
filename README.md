@@ -1,1 +1,1 @@
-# git-beginners-training
+# git_training_introduce_self_site
